@@ -1,0 +1,27 @@
+@import url('reset.css');
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
+
+:root {
+    /* COLORS */
+    --white: hsl(0, 0%, 100%);
+    --dark: hsl(0, 0%, 15%);
+    --light-dark: hsl(0, 0%, 55%);
+    --gradient: linear-gradient(90deg, #0072C3 0%, hsl(263, 100%, 72%) 95.83%);
+
+    /*FONT WEIGHTS */
+    --regular-weight: 400;
+    --medium-weight: 500;
+    --bold-weight: 700;
+
+    /*FONT SIZES */
+    --large-size: 18px;
+    --regular-size: 16px;
+    --small-size: 14px;
+    --xsmall-size: 12px;
+
+    --shadow-card: 0px 0px 8px rgba(82, 82, 82, 0.08);
+
+    font-family: 'SF Pro Display', sans-serif;
+
+  }
