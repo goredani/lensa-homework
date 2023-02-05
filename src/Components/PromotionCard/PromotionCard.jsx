@@ -40,9 +40,6 @@ export const PromotionCard = ({
     }
   };
 
-  console.log(position_location);
-  console.log(company_general);
-
   return (
     <div className={styles.promotionCard}>
       <div className={styles.content}>
