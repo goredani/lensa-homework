@@ -4,7 +4,7 @@
 
 An example component in React with Storybook integration.
 
-### `npm init`
+### `npm install`
 
 Set up the project and install dependencies.
 
